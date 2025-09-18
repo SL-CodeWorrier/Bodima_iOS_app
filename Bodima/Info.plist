@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Bodima needs access to your calendar to add reservation dates and help you keep track of your bookings.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Use Face ID to sign in to Bodima securely and quickly access your account.</string>
+</dict>
+</plist>

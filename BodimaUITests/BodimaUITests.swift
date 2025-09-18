@@ -1,3 +1,10 @@
+//
+//  BodimaUITests.swift
+//  BodimaUITests
+//
+//  Created by Praveen Aththanayake on 2025-07-13.
+//
+
 import XCTest
 
 final class BodimaUITests: XCTestCase {
